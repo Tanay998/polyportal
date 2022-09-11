@@ -7,12 +7,12 @@ const Home = (props) => {
   setData = ()=>{
     let pass = prompt("Enter Your Password: ");
     if(pass =="admin@estc"){
-      
+
     }
   }
   return (
     <div>
-      <MainDiv1 nameAdmin="ADMIN PANEL" nameAdmin2="STUDENT PANEL" umethod={data}/>
+      <MainDiv1 nameAdmin="ADMIN PANEL**" nameAdmin2="STUDENT PANEL" umethod={data}/>
     </div>
   );
 }
