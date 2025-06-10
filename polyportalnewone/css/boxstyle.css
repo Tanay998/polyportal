@@ -1,0 +1,94 @@
+			*
+			{
+				box-sizing:border-box;
+			}
+			.div1 {
+  					width: 300px;
+  					padding: 50px;
+  					margin: 20px;
+  					border-radius: 12px;
+				}
+			.div3 {
+  					width: 300px;
+  					padding: 50px;
+  					margin: 10px;
+  					border-radius: 12px;
+				}
+			.div4 {
+  					width: 300px;
+  					padding: 50px;
+  					margin: 20px;
+  					border-radius: 12px;
+				}
+			.div5 {
+  					width: 300px;
+  					padding: 50px;
+  					margin: 20px;
+  					border-radius: 12px;
+				}	
+			.div1:hover
+			{
+				background-color: black;
+				font-weight: bold;
+				border-radius: 16px;
+			}
+			.div1 a:hover
+			{
+				color: white;
+			}
+			.div3:hover
+			{
+				background-color: black;
+				font-weight: bold;
+				border-radius:16px;
+			}
+			.div3 a:hover
+			{
+				color: white;
+			}
+			.div4:hover
+			{
+				background-color: black;
+				font-weight: bold;
+				border-radius: 16px;
+			}
+			.div4 a:hover
+			{
+				color: white;
+			}
+			.div5:hover
+			{
+				background-color: black;
+				font-weight: bold;
+				border-radius: 16px;
+			}
+			.div5 a:hover
+			{
+				color: white;
+			}
+.ms-5
+{
+	margin-left: 100px;
+}
+.paddq
+{
+	padding: 20px;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+#show td
+{
+	padding: 13px;
+	text-align: center;
+}
